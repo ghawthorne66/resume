@@ -31,6 +31,7 @@
 
 ### Frameworks and Libraries
 - GitLab 
+- Wordpress
 
 
 
