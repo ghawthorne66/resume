@@ -1,10 +1,11 @@
-# Gregory Hawthorne ![Job](https://img.shields.io/badge/looking__for__creative_opportunities-true-brightgreen.svg)
+# Greg Hawthorne ![](https://img.shields.io/badge/looking__for__creative_opportunities-true-brightgreen.svg)
 
 <a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-ghawthorne@me.com-ea4335.svg)</a>
 <a href="https://twitter.com/gshawthorne">![Twitter](https://img.shields.io/badge/twitter-@gshawthorne-1da1f2.svg)</a>
 <a href="https://fb.com/gregory.hawthorne.1">![Facebook](https://img.shields.io/badge/facebook-greghawthorne-3b5998.svg)</a>
 <a href="https://instagram.com/greghawthorne/">![Instagram](https://img.shields.io/badge/instagram-@greghawthorne-e1306c.svg)</a>
 <a href="https://kr.linkedin.com/in/greg-hawthorne-9a568012/">![Linkedin](https://img.shields.io/badge/linkedin-greghawthorne-0077b5.svg)</a>
+<a href="https://stackoverflow.com/users/11357307/greg-hawthorne">![StackOverflow](https://img.shields.io/badge/stackoverflow-greghawthorne-0077b5.svg)</a>
 
 
 ## Summary
@@ -20,6 +21,17 @@
 * **Language** :  English (Native), Spanish (Limited Working Proficiency)
 
 ----
+----
+
+## Skills
+
+### Programming Language
+- HTML/ CSS
+- JavaScript (ES6)
+
+### Frameworks and Libraries
+- GitLab 
+
 
 
 
