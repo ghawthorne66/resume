@@ -1,4 +1,4 @@
-# Greg Hawthorne ![ ](https://img.shields.io/badge/open__for__creative_ideas-true-darkgreen.svg)
+# Greg Hawthorne ![ ](https://img.shields.io/badge/looking__for__creative_projects-true-darkgreen.svg)
 
 <a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-ghawthorne@me.com-ff0000.svg)</a>
 <a href="https://twitter.com/gshawthorne">![Twitter](https://img.shields.io/badge/twitter-@gshawthorne-1da1f2.svg)</a>
