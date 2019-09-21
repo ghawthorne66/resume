@@ -1,4 +1,4 @@
-# Gregory Hawthorne [Job](https://img.shields.io/badge/looking__for__creative_opportunities-true-brightgreen.svg)
+# Gregory Hawthorne ![Job](https://img.shields.io/badge/looking__for__creative_opportunities-true-brightgreen.svg)
 
 <a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
 <a href="https://twitter.com/gshawthorne">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
