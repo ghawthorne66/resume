@@ -1,4 +1,4 @@
-# Greg Hawthorne ![ ](https://img.shields.io/badge/looking__for__creative_opportunities_true-green.svg)
+# Greg Hawthorne ![ ](https://img.shields.io/badge/looking__for__creative_opportunities-true-darkgreen.svg)
 
 <a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-ghawthorne@me.com-FF0000.svg)</a>
 <a href="https://twitter.com/gshawthorne">![Twitter](https://img.shields.io/badge/twitter-@gshawthorne-1da1f2.svg)</a>
@@ -10,8 +10,8 @@
 
 ## Summary
 - Total 1 years and 4 months as a front end web designer.
-- Automate recursive working area to increase efficiency.
-- Fast adapting skills in new environments and build production grade application.
+- Creator and implementer of stramlined and automated efficiencies.
+- Fast adapting skills in new environments and building production grade applications.
 
 ----
 
