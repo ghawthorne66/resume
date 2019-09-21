@@ -2,9 +2,9 @@
 
 <a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-ghawthorne@me.com-ea4335.svg)</a>
 <a href="https://twitter.com/gshawthorne">![Twitter](https://img.shields.io/badge/twitter-@gshawthorne-1da1f2.svg)</a>
-<a href="https://fb.com/gregory.hawthorne.1">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
-<a href="https://instagram.com/greghawthorne/">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
-<a href="https://kr.linkedin.com/in/greg-hawthorne-9a568012/">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
+<a href="https://fb.com/gregory.hawthorne.1">![Facebook](https://img.shields.io/badge/facebook-greg hawthorne-3b5998.svg)</a>
+<a href="https://instagram.com/greghawthorne/">![Instagram](https://img.shields.io/badge/instagram-@greghawthorne-e1306c.svg)</a>
+<a href="https://kr.linkedin.com/in/greg-hawthorne-9a568012/">![Linkedin](https://img.shields.io/badge/linkedin-greg hawthorne-0077b5.svg)</a>
 
 
 ## Summary
