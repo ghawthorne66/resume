@@ -1,6 +1,6 @@
 # Greg Hawthorne ![ ](https://img.shields.io/badge/open__for__creative_ideas-true-darkgreen.svg)
 
-<a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-ghawthorne@me.com-FF0000.svg)</a>
+<a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-ghawthorne@me.com-ff0000.svg)</a>
 <a href="https://twitter.com/gshawthorne">![Twitter](https://img.shields.io/badge/twitter-@gshawthorne-1da1f2.svg)</a>
 <a href="https://fb.com/gregory.hawthorne.1">![Facebook](https://img.shields.io/badge/facebook-greghawthorne-3b5998.svg)</a>
 <a href="https://instagram.com/greghawthorne/">![Instagram](https://img.shields.io/badge/instagram-@greghawthorne-e1306c.svg)</a>
@@ -35,4 +35,4 @@
 
 
 
-For more information, Contact me at <a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-ghawthorne@me.com-ea4335.svg)</a>
+For more information, Contact me at <a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-ghawthorne@me.com-ff0000.svg)</a>
