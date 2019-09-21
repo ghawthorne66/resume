@@ -1,10 +1,10 @@
 # Gregory Hawthorne ![Job](https://img.shields.io/badge/looking__for__creative_opportunities-true-brightgreen.svg)
 
-<a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
-<a href="https://twitter.com/gshawthorne">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
+<a href="mailto:ghawthorne@me.com">![Email](https://img.shields.io/badge/email-ghawthorne@me.com-ea4335.svg)</a>
+<a href="https://twitter.com/gshawthorne">![Twitter](https://img.shields.io/badge/twitter-@gshawthorne-1da1f2.svg)</a>
 <a href="https://fb.com/gregory.hawthorne.1">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
 <a href="https://instagram.com/greghawthorne/">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
-<a href="https://kr.linkedin.com/in/greg-hawthorne-9a568012/">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>N)
+<a href="https://kr.linkedin.com/in/greg-hawthorne-9a568012/">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
 
 ## Summary
